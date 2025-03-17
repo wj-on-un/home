@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Wonjun Choi # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: My research Topic\n - Natural Language Processing (NLP\n - Computer Vision (CV). # add description
+about-author: "My research Topic\n - Natural Language Processing (NLP\n - Computer Vision (CV)." # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: wj-on-un # add your Github handle
