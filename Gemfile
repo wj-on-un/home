@@ -1,2 +1,6 @@
 source "https://rubygems.org"
-gemspec
+
+gem "github-pages", group: :jekyll_plugins
+# gem 'jekyll-theme-prologue', '~> 0.3.3'
+
+# gemspec
